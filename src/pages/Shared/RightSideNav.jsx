@@ -1,11 +1,11 @@
 
 
-const Rightsidenav = () => {
+const RightSideNav = () => {
     return (
         <div>
-            <div className="text-2xl">Right Side</div>
+            <div className="text-2xl">Right Side!!!</div>
         </div>
     );
 };
 
-export default Rightsidenav;
+export default RightSideNav;
